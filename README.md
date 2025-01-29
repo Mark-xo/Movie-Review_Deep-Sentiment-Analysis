@@ -17,7 +17,7 @@ We preprocess these reviews to:
 - Associate sentiment scores to aspects.
 
 ## 🏗️ Architecture
-1. **Fine-Tuned NER Model**: Parses movie reviews to classify words under aspects (e.g., "music", "acting").
+1. **Fine-Tuned NER Model**: BERT based NER model parses movie reviews to classify words under aspects (e.g., "music", "acting").
 2. **Sentiment Classifier**: Uses attention-based deep learning to classify the review.
 3. **LIME XAI Model**: Highlights words that contribute most to the review’s sentiment.
 4. **Attention Visualization**: Displays heatmaps showing which words influenced predictions.
