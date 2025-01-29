@@ -28,25 +28,21 @@ We preprocess these reviews to:
 - 🎨 **Attention Maps**: Visualizes how the model interprets reviews.
 - 🏷️ **Named Entity Recognition (NER)**: Finds movie-related aspects dynamically.
 
-📷 Model Interpretability & Visualizations
+## 📷 Model Interpretability & Visualizations
 
 🔹 Attention Heatmaps
 
 🔹 LIME Interpretability Output
 
-
-📜 Key Findings
+## 📜 Key Findings
 The NER model accurately identifies aspects like cinematography, acting, and story.
 LIME explanations highlight words that most influence sentiment predictions.
 Attention heatmaps provide a deeper understanding of how the model interprets text.
 
-🚀 Future Work
+## 🚀 Future Work
 Expand dataset support.
 Improve aspect extraction using transformers.
 Integrate additional XAI techniques (e.g., SHAP).
-
-🤝 Contributing
-We welcome contributions! Feel free to open issues and submit pull requests.
 
 ## 🔗 References
 - [IMDb Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) - Official dataset used for movie reviews.
