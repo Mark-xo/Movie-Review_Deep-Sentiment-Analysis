@@ -29,8 +29,8 @@ We preprocess these reviews to:
 - 🏷️ **Named Entity Recognition (NER)**: Finds movie-related aspects dynamically.
 
 📷 Model Interpretability & Visualizations
-🔹 Attention Heatmaps
 
+🔹 Attention Heatmaps
 
 🔹 LIME Interpretability Output
 
