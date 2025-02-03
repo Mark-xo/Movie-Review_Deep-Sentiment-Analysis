@@ -31,13 +31,17 @@ We preprocess these reviews to:
 
 ## 📷 Model Interpretability & Visualizations
 🔹 Evluation Metric Graph
+
 ![Image](https://github.com/user-attachments/assets/61e89b12-98ac-45e2-98de-a93837f7d543)
 
 🔹 Attention Heatmaps
+
 ![Image](https://github.com/user-attachments/assets/467eb8f2-5764-45f9-a188-15360f3beb48)
+
 ![Image](https://github.com/user-attachments/assets/ac64b40a-1b83-419d-b658-32308900a1d8)
 
 🔹 LIME Interpretability Output
+
 ![Image](https://github.com/user-attachments/assets/ae93c2c9-e553-47e9-9286-4fe63eb6eb91)
 
 ## 📜 Key Findings
